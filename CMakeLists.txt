@@ -3,4 +3,4 @@ project(atl)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(atl main.cpp real.cpp vec3.h color.h ray.h hittable.h sphere.h hittable_list.h rtweekend.h interval.h camera.h)
+add_executable(atl main.cpp real.cpp vec3.h color.h ray.h hittable.h sphere.h hittable_list.h rtweekend.h interval.h camera.h material.h)
